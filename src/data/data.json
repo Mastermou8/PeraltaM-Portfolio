@@ -1,22 +1,24 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Aspiring Software Developer",
+    "paragraph": "Junior Student at Florida Polytechnic University Currently working with Python, C#, C++, SQL, ReactJS, JSON, and Azure to build innovative and efficient solutions."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "Hi, I’m Mauricio! I’m a Junior Computer Science student at Florida Polytechnic University with a strong interest in software development and cloud computing. I enjoy working with technologies like Python, C#, C++, SQL, ReactJS, JSON, and Azure to create efficient and innovative solutions.", 
+    "paragraph2": "My goal is to leverage my skills to build scalable applications and contribute to impactful projects. Outside of coding, I enjoy listening to audiobooks and podcasts, playing guitar, and designing systems for games—activities that fuel my creativity and problem-solving mindset.",
+   
+  "Why": [
+    "Python",
+    "C#",
+    "C++",
+    "SQL"
+  ],
+  "Why2": [
+    "ReactJS",
+    "JSON",
+    "Azure"
+  ]
+
   },
   "Gallery": [
     {
@@ -33,68 +35,39 @@
       "title": "Project Title",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
+
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Fast Learner",
+      "text": "Adapted to learning complex programming concepts under strict time constraints while balancing work responsibilities. Demonstrates strong ability to quickly grasp new technologies and apply them effectively."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "User-Centric System Insight",
+      "text": "Gained hands-on experience with retail inventory systems while working at Publix. This insider perspective helps me understand the user side of enterprise systems and identify opportunities for improving workflows and usability."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Cloud Computing with Azure",
+      "text": "Developed hands-on experience with Microsoft Azure while deploying and managing this portfolio website. Learned essential cloud concepts, including hosting, resource management, and scalability, to deliver a reliable and accessible web application."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Bilingual Communication",
+      "text": "Fluent in English and Spanish, enabling effective communication with diverse teams and clients. Skilled at bridging language gaps and providing excellent support for Spanish-speaking users.”"
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Problem Solving & Algorithmic Thinking",
+      "text": "Strengthened problem-solving skills through coursework in Algorithm Analysis and Design. Experienced in breaking down complex challenges and creating efficient, optimized solutions using structured approaches."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Team Collaboration & Leadership",
+      "text": "Experienced in leading both coding projects and operational teams. Skilled at observing team members’ strengths and assigning tasks based on their talents and preferences, resulting in improved efficiency and timely project completion."
     }
   ],
   "Testimonials": [
@@ -152,10 +125,10 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "Lakeland,",
+    "phone": "+1 754 736 1547",
+    "email": "PeraltaMauricioSa.com",
+    "linkedin": "https://www.linkedin.com/in/mauricio-peralta-454b15206/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
