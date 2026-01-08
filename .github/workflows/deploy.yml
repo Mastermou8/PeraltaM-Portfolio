@@ -13,13 +13,16 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Fix Git Permissions
+      run: sudo chown -R $USER:$USER .git
+
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '18'
 
     - name: Install dependencies
-      run: npm install
+      run: npm install --legacy-peer-deps
 
     - name: Build React app
       run: npm run build
