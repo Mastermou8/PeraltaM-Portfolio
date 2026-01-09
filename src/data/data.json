@@ -25,6 +25,11 @@
       "title": "Flight-Route-Optimization-System",
       "largeImage": "img/portfolio/01-large.jpg?v=2",
       "smallImage": "img/portfolio/01-small.jpg?v=2"
+    },
+    {
+      "title": "Mark My Campus",
+      "largeImage": "https://markmycampus-ancdhsaeegcff5da.centralus-01.azurewebsites.net/",
+      "smallImage": "img/portfolio/02-small.png"
     }
 
   ],
